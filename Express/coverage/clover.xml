@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1693208824717" clover="3.2.0">
+  <project timestamp="1693208824717" name="All files">
+    <metrics statements="258" coveredstatements="218" conditionals="2" coveredconditionals="0" methods="187" coveredmethods="94" elements="447" coveredelements="312" complexity="0" loc="258" ncloc="258" packages="28" files="30" classes="30"/>
+    <package name="admin.controller">
+      <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="7"/>
+      <file name="admin.controller.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\admin\controller\admin.controller.js">
+        <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="7"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="admin.service">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
+      <file name="admin.service.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\admin\service\admin.service.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
+        <line num="17" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="admin.service.impl">
+      <metrics statements="15" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="9"/>
+      <file name="admin.serviceImpl.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\admin\service\impl\admin.serviceImpl.js">
+        <metrics statements="15" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="9"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="blog.controller">
+      <metrics statements="14" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="9"/>
+      <file name="blog.controller.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\blog\controller\blog.controller.js">
+        <metrics statements="14" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="9"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="blog.dao.models">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="blog.model.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\blog\dao\models\blog.model.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="blog.dao.schemas">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="blog.schema.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\blog\dao\schemas\blog.schema.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="blog.routes">
+      <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="blogs.routes.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\blog\routes\blogs.routes.js">
+        <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="blog.service">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
+      <file name="blog.service.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\blog\service\blog.service.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
+        <line num="17" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="blog.service.impl">
+      <metrics statements="15" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="9"/>
+      <file name="blog.serviceImpl.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\blog\service\impl\blog.serviceImpl.js">
+        <metrics statements="15" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="9"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="middleware">
+      <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="authAdminMiddleware.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\middleware\authAdminMiddleware.js">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+      </file>
+      <file name="authUserMiddleware.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\middleware\authUserMiddleware.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="5" count="37" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="order.controller">
+      <metrics statements="15" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="12"/>
+      <file name="order.controller.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\order\controller\order.controller.js">
+        <metrics statements="15" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="12"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="order.dao.models">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="order.model.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\order\dao\models\order.model.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="order.dao.schemas">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="order.schema.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\order\dao\schemas\order.schema.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="order.routes">
+      <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="order.routes.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\order\routes\order.routes.js">
+        <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="order.service">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="0"/>
+      <file name="order.service.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\order\service\order.service.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="0"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="order.service.impl">
+      <metrics statements="16" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="12"/>
+      <file name="order.serviceImpl.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\order\service\impl\order.serviceImpl.js">
+        <metrics statements="16" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="12"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="75" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="product.controller">
+      <metrics statements="14" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="11"/>
+      <file name="product.controller.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\product\controller\product.controller.js">
+        <metrics statements="14" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="11"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="54" count="2" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="64" count="2" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="product.dao.models">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="cart.model.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\product\dao\models\cart.model.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+      </file>
+      <file name="product.model.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\product\dao\models\product.model.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="product.dao.schemas">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="product.schema.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\product\dao\schemas\product.schema.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="product.routes">
+      <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="product.routes.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\product\routes\product.routes.js">
+        <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="product.service">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
+      <file name="product.service.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\product\service\product.service.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="0"/>
+        <line num="17" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="product.service.impl">
+      <metrics statements="15" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="8"/>
+      <file name="product.serviceImpl.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\product\service\impl\product.serviceImpl.js">
+        <metrics statements="15" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="8"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.controller">
+      <metrics statements="10" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="8"/>
+      <file name="user.controller.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\user\controller\user.controller.js">
+        <metrics statements="10" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="8"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.dao.models">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="user.model.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\user\dao\models\user.model.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.dao.schemas">
+      <metrics statements="17" coveredstatements="6" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="user.schema.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\user\dao\schemas\user.schema.js">
+        <metrics statements="17" coveredstatements="6" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.routes">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="user.routes.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\user\routes\user.routes.js">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.service">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="0"/>
+      <file name="user.service.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\user\service\user.service.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="0"/>
+        <line num="13" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.service.impl">
+      <metrics statements="12" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="8"/>
+      <file name="user.serviceImpl.js" path="C:\Data\Code\MEAN\E-Mall ProConnect\Template\Backend\modules\user\service\impl\user.serviceImpl.js">
+        <metrics statements="12" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="8"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
