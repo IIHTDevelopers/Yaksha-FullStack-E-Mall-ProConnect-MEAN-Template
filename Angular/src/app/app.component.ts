@@ -9,9 +9,6 @@ export class AppComponent {
   title = 'E-Mall ProConnect';
   isLoggedIn: boolean = false;
 
-  constructor() {
-  }
-
   onLogout() {
     // write your logic here
   }
